@@ -19,7 +19,7 @@ Yeni teknolojiler öğrenmeye ve kaliteli yazılımlar üretmeye tutkuyla bağl�
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MSSQL Server](https://img.shields.io/badge/MSSQL-%230074C6.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23009688.svg?style=for-the-badge)
-![Katmanlı Mimari](https://img.shields.io/badge/Katmanlı%20Mimari-%234B8BBE.svg?style=for-the-badge)
+![Layered Architecture](https://img.shields.io/badge/Layered%20Architecture-%234B8BBE.svg?style=for-the-badge)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
